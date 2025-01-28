@@ -18,12 +18,7 @@
 
 ---
 
-### 📈 **GitHub Stats**
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Tharun-03k&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Tharun-03k&layout=compact&theme=radical)
-
----
 
 ### 🏆 **Coding Profiles**
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/Tharun_03k/)
@@ -35,7 +30,4 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](http://linkedin.com/in/tharun-k-4a821025b)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)
 
----
 
-### 🎨 **Aesthetic Quote**
-> "Artificial intelligence is the future, and the future is here." – Dave Waters
