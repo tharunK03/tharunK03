@@ -22,12 +22,7 @@
 
 <!--Intro start-->
 <ul>
-<li>🔭 I’m currently working on <strong>AI models and Deep Learning projects</strong></li>
-<li>🌱 I’m learning <strong>Advanced Machine Learning, Neural Networks, and Data Science</strong></li>
-<li>🎯 My goal is to <strong>contribute to open-source AI projects and pursue AI research</strong></li>
-<li>💬 Ask me about <strong>Python, Machine Learning, Deep Learning, and Data Science</strong></li>
-<li>🤖 I’m interested in <strong>AI-driven applications, NLP, and Computer Vision</strong></li>
-<li>✨ Fun fact: <strong>I love solving puzzles and participating in coding challenges!</strong></li>
+A passionate undergrad student from SRM university majoring in Computer Science with specialization in Machine Learning and AI
 </ul>
 <!--Intro end-->
 
